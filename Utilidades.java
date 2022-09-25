@@ -1,6 +1,4 @@
 class Utilidades {
-    public Utilidades() {
-    }
 
     public static void ejemplo(){
         int a=8;
@@ -20,7 +18,7 @@ class Utilidades {
              // la conversión de tipos
              
         //int d = (int)(v*a);
-        System.out.println(d); 
+            
     }
     class TestUtilidades{
         public static void main(String[] args){
